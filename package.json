@@ -1,0 +1,23 @@
+{
+  "name": "regex-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanKr/regex-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanKr/regex-playground/issues"
+  },
+  "homepage": "https://github.com/NathanKr/regex-playground#readme",
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  }
+}
